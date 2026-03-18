@@ -2,7 +2,13 @@
   "name": "illuvara",
   "version": "1.0.0",
   "private": true,
+  "engines": {
+    "node": ">=18.0.0"
+  },
   "scripts": {
+    "start": "node server/index.js",
+    "build": "cd client && npm install && npm run build",
+    "postinstall": "npm run build",
     "dev": "concurrently \"npm run server\" \"npm run client\"",
     "server": "node server/index.js",
     "client": "cd client && npm run dev",
