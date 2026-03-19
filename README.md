@@ -1,4 +1,4 @@
-# Illuvara 🌟
+# Primal Shards 🌟
 
 > A blockchain-inspired creature collector, auto-battler, and RPG built with React + Node.js + SQLite.
 
