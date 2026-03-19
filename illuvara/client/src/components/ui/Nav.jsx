@@ -26,7 +26,7 @@ export default function Nav() {
       animate={{ y: 0, opacity: 1 }}
       className="glass-dark sticky top-0 z-40 px-4 py-3 flex items-center gap-4 overflow-x-auto"
     >
-      <span className="font-display text-lg text-purple-400 whitespace-nowrap mr-2 hidden sm:block">ILLUVARA</span>
+      <span className="font-display text-lg text-purple-400 whitespace-nowrap mr-2 hidden sm:block">PRIMAL SHARDS</span>
       <div className="flex items-center gap-1 flex-1 flex-wrap">
         {links.map(l => (
           <NavLink
