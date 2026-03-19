@@ -100,7 +100,7 @@ export default function Landing() {
         >
           <h1 className="font-display text-5xl sm:text-7xl md:text-8xl font-black mb-2"
             style={{ background: 'linear-gradient(135deg, #7c3aed, #0d9488, #fbbf24)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}>
-            ILLUVARA
+            PRIMAL SHARDS
           </h1>
           <p className="text-slate-400 text-lg sm:text-xl mb-2 font-light tracking-widest uppercase">
             Creature Collector · Auto-Battler · RPG
