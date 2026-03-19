@@ -6,7 +6,7 @@ echo "📦 Installing root dependencies (Express, SQLite, JWT)..."
 npm install
 
 echo "📦 Installing client dependencies (React, Vite, Tailwind, Framer Motion)..."
-cd Client && npm install && cd ..
+cd client && npm install && cd ..
 
 echo "🌱 Seeding the database..."
 npm run seed
