@@ -34,7 +34,7 @@ export default function Nav() {
     >
       {/* Logo — hidden on very small screens */}
       <span className="font-display text-purple-400 text-base whitespace-nowrap mr-2 hidden md:block select-none">
-        ILLUVARA
+        PRIMAL SHARDS
       </span>
 
       {/* Nav links */}
